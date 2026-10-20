@@ -31,7 +31,7 @@ This was his first full 90 minutes of the tournament, which makes it the cleanes
 - **Dribbling was mixed.** 3 successful dribbles from 8 attempts.
 - **Shot volume without shot quality.** 3 shots (2 on target), about 20% of Spain's 15 shots, but only about 0.11 xG in total.
 - **Role mirrored the opposite wing.** About 87% of his touches were on the right flank, with a final-third share similar to Baena's on the left.
-- **Conclusion:** an active contributor in attacking play, not a match-winning display. Event data cannot measure sprinting or physical load, and one match is not enough to compare him with his pre-injury self.
+- **Conclusion:** An active contributor in attacking play, not a match-winning display. Event data cannot measure sprinting or physical load, and one match is not enough to compare him with his pre-injury self.
 
 > Full write-up with charts: [Medium article](https://medium.com/@andhikarafilazuardi/lamine-yamal-vs-portugal-world-cup-2026-17a441fe292d)
 
@@ -44,9 +44,8 @@ This was his first full 90 minutes of the tournament, which makes it the cleanes
 
 ### Data
 
-- **Source:** [provider name and link]
+- **Source:** [https://www.whoscored.com/matches/1998192/show/international-fifa-world-cup-2026-portugal-spain]
 - **Coverage:** Spain vs Portugal, 2026 World Cup Round of 16 (event-level data)
-- **Note:** [state whether raw data is included in this repo. If not, explain how to obtain it. Check the provider's terms before redistributing.]
 
 ### How to run
 
@@ -69,7 +68,7 @@ jupyter notebook Yamal-vs-Portugal-wc-2026.ipynb
 
 ## Other projects
 
-- [End-to-End Football Analytics Pipeline](https://github.com/lazuadik/) (Premier League 2025/26): web scraping, Databricks ETL with PySpark (Bronze/Silver/Gold), star schema, Tableau dashboards. [Replace with the exact repo link.]
+- [End-to-End Football Analytics Pipeline](https://github.com/lazuadik/) (Premier League 2025/26): web scraping, Databricks ETL with PySpark (Bronze/Silver/Gold), star schema, Tableau dashboards. 
 
 ## Author
 
