@@ -18,10 +18,10 @@ This was his first full 90 minutes of the tournament, which makes it the cleanes
 
 ### Approach
 
-1. **Collect** match event data for Spain vs Portugal from [data source, e.g. provider name / URL].
+1. **Collect** match event data for Spain vs Portugal from [[data source](https://www.whoscored.com/matches/1998192/show/international-fifa-world-cup-2026-portugal-spain)].
 2. **Clean and prepare** events for Yamal and his teammates with [pandas].
 3. **Compute metrics**: passing accuracy, final-third and box passes, dribbles, shots, xG / xGOT, and touch distribution by pitch zone and flank.
-4. **Visualize**: pass maps, shot map, dribble map and touch heatmaps with [matplotlib / mplsoccer].
+4. **Visualize**: pass maps, shot map, dribble map, and touch heatmaps with [matplotlib / mplsoccer].
 5. **Compare** Yamal against his team (shot share, box deliveries) and against Baena on the opposite wing.
 
 ### Key findings
